@@ -1,0 +1,22 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./resources/views/listing/create.blade.php"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+
+//   /** @type {import('tailwindcss').Config} */
+// module.exports = {
+//   content: [
+//     "./resources/**/*.blade.php",
+//     "./resources/**/*.js",
+//     "./resources/**/*.vue",
+//   ],
+//   theme: {
+//     extend: {},
+//   },
+//   plugins: [],
+//}
+}
+
